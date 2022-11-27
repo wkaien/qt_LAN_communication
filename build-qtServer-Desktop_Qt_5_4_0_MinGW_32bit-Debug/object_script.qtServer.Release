@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\MainWindow.o
+./release\UserDao.o
+./release\UserEntity.o
+./release\MsgBuilder.o
+./release\CJsonObject.o
+./release\cJSON.o
+./release\MyTcpServer.o
+./release\MyThread.o
+./release\moc_MainWindow.o
+./release\moc_MyTcpServer.o
+./release\moc_MyThread.o
+);

@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\MainWindow.o
+./debug\UserDao.o
+./debug\UserEntity.o
+./debug\MsgBuilder.o
+./debug\CJsonObject.o
+./debug\cJSON.o
+./debug\MyTcpServer.o
+./debug\MyThread.o
+./debug\moc_MainWindow.o
+./debug\moc_MyTcpServer.o
+./debug\moc_MyThread.o
+);

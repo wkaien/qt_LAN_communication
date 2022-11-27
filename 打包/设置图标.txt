@@ -1,0 +1,4 @@
+1、将.ico文件放到项目目录  例如 app.ico
+2、在项目目录中创建.rc文件  例如 app.rc
+3、在.rc文件中添加 IDI_ICON   ICON    DISCARDABLE     "app.ico"
+4、在pro文件中添加  RC_FILE = app.rc
